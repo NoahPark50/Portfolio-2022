@@ -32,6 +32,7 @@ body {
 .content {
 	background: #905691;
 	margin: 0px;
+	padding: 10;
 	float: left;
 	width: 100%;
 	text-align: center;
